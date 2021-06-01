@@ -18,4 +18,7 @@ While Markdown's syntax has been influenced by several existing text-to-HTML fil
 inspiration for Markdown's syntax is the format of plain text email.
 
 <script src=“https://gumroad.com/js/gumroad.js”></script>
-<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Add to stack | Buy Now </a>
+<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA?wanted=true” target=“_blank”>Buy Now | Straight to payment</a>
+
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Buy my product | Pop up Card</a>
