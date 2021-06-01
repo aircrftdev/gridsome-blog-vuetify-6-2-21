@@ -16,8 +16,28 @@
 
       <div class="post__content" v-html="$page.post.content" />
 
+      <div>
+         <a class="embedly-button" href="http://embed.ly/code">Embedly Button</a>
+
+        <button type="button" class="btn btn-primary">Bootstrap Button Primary</button>
+
+        <a class="embedly-button" data-url="http://apple.com"
+    href="http://embed.ly/code">Embeddly button 2</a>
+
+      <a href="http://embed.ly" class="embedly-card">Embedly Card</a>
+
+      <blockquote class="embedly-card">
+      <h4><a href="http://embed.ly/docs">Embedly Block Quote Card Documentation</a></h4>
+      <p>
+        Embedly's Documentation is the best.
+      </p>
+
+      </blockquote>
+      </div>
+
       <div class="post__footer">
         <PostTags :post="$page.post" />
+
       </div>
     </div>
 

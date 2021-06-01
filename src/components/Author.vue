@@ -13,8 +13,8 @@
 
 
 		<p class="author__links">
-			<a href="//aircrft.com/market">Marketplace</a>
-			<a href="//aircrft.com/hub">Hub + Spoke</a>
+			<a href="//aircrft.com/market">Startup Marketplace</a>
+			<a href="//aircrft.com/hub">Hub & Spoke</a>
 		</p>
 
 	</div>
