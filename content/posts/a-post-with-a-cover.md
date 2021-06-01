@@ -1,12 +1,12 @@
 ---
-title: A post with a cover image
-date: 2019-01-07
+title: Welcome
+date: 2021-06-01
 published: true
 tags: ['Markdown', 'Cover Image']
 series: false
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+cover_image: ./images/whats-your-moonshot-380hx770w.png
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Aircrft is an online marketplace that sells thoughtfully curated positive impact technology tools and real simple solutions for lean startups and digital minimalists."
 ---
 
 Readability, however, is emphasized above all else. A Markdown-formatted
@@ -17,4 +17,5 @@ While Markdown's syntax has been influenced by several existing text-to-HTML fil
 [Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
 inspiration for Markdown's syntax is the format of plain text email.
 
-
+<script src=“https://gumroad.com/js/gumroad.js”></script>
+<a class=“gumroad-button” href=“https://gumroad.com/l/zwIVA” target=“_blank”>Add to stack | Buy Now </a>
