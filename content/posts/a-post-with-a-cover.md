@@ -1,7 +1,7 @@
 ---
-title: Welcome
+title: A Post with a Cover
 date: 2021-06-01
-published: true
+published: false
 tags: ['Startup Marketplace', 'Tools', 'Solutions']
 series: false
 cover_image: ./images/whats-your-moonshot-380hx770w.png
