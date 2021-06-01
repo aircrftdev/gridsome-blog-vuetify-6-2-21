@@ -8,12 +8,12 @@
 		</h1>
 
 		<p class="author__intro">
-			What's your moonshot?
+			Aircrft is an online marketplace that sells thoughtfully curated positive impact technology tools and real simple solutions for lean startups and digital minimalists.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Marketplace</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">blog</a>
+			<a href="//aircrft.com/market">Startup Marketplace</a>
+			<a href="//aircrft.com/hub">Hub & Spoke (Community + blog)</a>
 		</p>
 
 	</div>
