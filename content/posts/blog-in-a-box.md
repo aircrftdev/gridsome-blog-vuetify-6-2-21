@@ -2,7 +2,7 @@
 title: Blog-in-a-Box
 date: 2021-06-03
 published: true
-tags: ['Blogging System', 'Tools & Solutions', 'Marketplace']
+tags: ['Blogging System', 'Tools & Solutions']
 series: false
 cover_image: ./images/aircrft-blog-in-a-box-cover-0.png
 canonical_url: false
