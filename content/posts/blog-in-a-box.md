@@ -10,4 +10,4 @@ description: "A complete blogging system for startups"
 ---
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Buy my product | Pop up Card</a>
+<a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Blog-in-a-Box | Buy Now</a>
