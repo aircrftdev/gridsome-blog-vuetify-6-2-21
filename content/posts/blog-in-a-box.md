@@ -12,3 +12,32 @@ description: "A complete blogging system for startups"
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Blog-in-a-Box | Buy Now</a>
 
+### Custom image with javasript trigger
+
+[![alt text
+](https://raw.githubusercontent.com/aircrftdev/Aircrft-Dev-Staging-Landkit-2.0.0-beta1/cfaa64825a4469637ef300ab13dbf7bef7ab81b1/src/aircrft-brand-logo-white-600x135.png
+"Blog in a Box Buy Now")
+](https://gumroad.com/l/zwIVA)
+
+### Custom image with javasript trigger
+
+[![alt text
+](https://raw.githubusercontent.com/aircrftdev/Aircrft-Dev-Staging-Landkit-2.0.0-beta1/master/src/img/buttons/button-app.png
+"Blog in a Box Buy Now")
+](https://gumroad.com/l/zwIVA)
+
+
+### Custom image svg with javasript trigger
+
+[![alt text
+](https://raw.githubusercontent.com/aircrftdev/Aircrft-Dev-Staging-Landkit-2.0.0-beta1/cfaa64825a4469637ef300ab13dbf7bef7ab81b1/src/img/icons/magic-1.svg
+"Blog in a Box Buy Now")
+](https://gumroad.com/l/zwIVA)
+
+
+### Custom image svg with javasript trigger
+
+[![alt text
+](https://github.com/aircrftdev/Aircrft-Dev-Staging-Landkit-2.0.0-beta1/blob/master/src/img/aircrft-brand-logo-menu-70x300.png?raw=true
+"Blog in a Box Buy Now")
+](https://gumroad.com/l/zwIVA)
