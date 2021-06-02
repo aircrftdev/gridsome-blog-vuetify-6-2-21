@@ -82,3 +82,26 @@ Now on your Markdown page, include your button like this:
 
 {% include button.html button_name="My Button" button_class="primary" %}
 I use this technique for callouts, images, and alerts in my documentation. Basically any time you have complex HTML formatting, you can hide it away in an include template like this.
+
+Blog-in-a-Box
+
+By  Aircrft
+
+A complete blogging system for startups. 
+Opens a universe of possibilities and opportunities. Product-ready out-of-the-box blogging platform powered by then latest server-less JAMstack architecture. 
+
+⭐️ Startup-grade. 
+⭐️ Fully-deployed production ready
+⭐️ JAMstack architecture 
+⭐️ Infinitely scalable
+⭐️ blazing-fast
+⭐️ bullet-proof secure
+⭐️ Your custom domain 
+
+💎 Aircrft Code Captains wire-up your domain blog.startup.com / startup.com/blog
+
+
+Tier
+$99 a year
+Yearly
+One year of Blogging awesomeness. We make sure your 100% set up and running smooth, including wiring up your startups custom domain name! 😀
