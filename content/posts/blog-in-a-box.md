@@ -41,3 +41,44 @@ description: "A complete blogging system for startups"
 ](https://github.com/aircrftdev/Aircrft-Dev-Staging-Landkit-2.0.0-beta1/blob/master/src/img/aircrft-brand-logo-menu-70x300.png?raw=true
 "Blog in a Box Buy Now")
 ](https://gumroad.com/l/zwIVA)
+
+### Markdown button test
+
+
+[button url="http://www.google.com"]
+
+
+{% include button.html url="http://www.google.com" %}
+
+
+The third option is to write plain HTML:
+
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+
+
+Option 4. The markdown way
+
+The last option is to use markdown to add a class and use CSS to style the link as a button.
+
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
+
+
+<button name="button">Click me</button>
+
+
+Use the include option (2) that JoostS recommended. Here's more specific info that shows how to incorporate a button using includes with parameters. In your _includes folder, create your button template (e.g., button.html), such as this:
+
+<button type="button" class="btn btn-{{include.button_class}} active">{{include.button_name}}</button>
+(This HTML code assumes you're using Bootstrap for your buttons.)
+
+Those places where I've written {{include.button_name}} will be the parameters you pass into your include.
+
+Now on your Markdown page, include your button like this:
+
+{% include button.html button_name="My Button" button_class="primary" %}
+I use this technique for callouts, images, and alerts in my documentation. Basically any time you have complex HTML formatting, you can hide it away in an include template like this.
