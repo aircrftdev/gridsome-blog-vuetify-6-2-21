@@ -12,6 +12,8 @@ description: "A complete blogging system for startups"
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/zwIVA" target="_blank">Blog-in-a-Box | Buy Now</a>
 
+###Vuetify app edition 6-2-2021 8am
+
 ### Custom image with javasript trigger
 
 [![alt text
